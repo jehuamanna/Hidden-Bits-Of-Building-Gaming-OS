@@ -2,14 +2,13 @@
 Steps to build an Gaming Operation in Linux 
 
 # Motivation
-One of the main drawbacks of gaming in Linux, especially playing multiplayer is, no native support for anti-cheats in Linux Kernel. Even if you apply kernel patches or apply kernel modules for anti-cheat, users can still recompile the kernel and play games dishonestly.
+The lack of native Linux kernel support for anti-cheat software is one of the primary disadvantages of Linux gaming, particularly multiplayer gaming. Users can still recompile the kernel and play games dishonestly even if they apply kernel patches or kernel modules for anti-cheat.
 
-## Solution
-Immutable Operating Systems. This concept is similar to how Andoid Operating System works. It has a base OS or system files which is immutable (read only). On top of that we have user applications running which cannot modify the underlying system.
+Immutable operating systems are the solution. This idea is comparable to that of the Andoid operating system. Its system files are read-only and unchangeable. Additionally, there are user apps operating that are unable to alter the underlying system.
 
-To make this happen we use the concept of container in building the Operating System.
+In order to accomplish this, we built the operating system using the container concept.
 
-We will make use of OCI (Open Container Initative).
+OCI (Open Container Initiative) will be utilized.
 
 
 # Image Format Specification Of OCI
