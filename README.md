@@ -2,7 +2,7 @@
 Steps to build an Gaming Operation in Linux 
 
 # Motivation
-One of the main drawbacks of gaming in Linux, especially playing multiplayer native support for anti-cheats in Linux Kernel. Even if you apply kernel patches or apply kernel modules for anti-cheat, users can still recompile the kernel and play games dishonestly.
+One of the main drawbacks of gaming in Linux, especially playing multiplayer is, no native support for anti-cheats in Linux Kernel. Even if you apply kernel patches or apply kernel modules for anti-cheat, users can still recompile the kernel and play games dishonestly.
 
 ## Solution
 Immutable Operating Systems. This concept is similar to how Andoid Operating System works. It has a base OS or system files which is immutable (read only). On top of that we have user applications running which cannot modify the underlying system.
