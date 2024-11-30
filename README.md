@@ -1,5 +1,5 @@
 # Hidden-Bits-Of-Building-Gaming-OS
-Steps to build an Gaming Operation in Linux 
+Steps to build an Gaming Operationing System using Linux 
 
 # Motivation
 The lack of native Linux kernel support for anti-cheat software is one of the primary disadvantages of Linux gaming, particularly multiplayer gaming. Users can still recompile the kernel and play games dishonestly even if they apply kernel patches or kernel modules for anti-cheat.
